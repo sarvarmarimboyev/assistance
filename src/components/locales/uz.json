@@ -1,0 +1,22 @@
+{
+  "navbar": {
+    "item1": "Bosh sahifa",
+    "item2": "Yangiliklar",
+    "item3": "Xizmatlar",
+    "item4": "Biz haqimizda",
+    "item5": "Bog'lanish",
+    "item6": "Hamkorlar"
+  },
+  "footer": {
+    "item1": "Bosh sahifa",
+    "item2": "Yangiliklar",
+    "item3": "Xizmatlar",
+    "item4": "Biz haqimizda",
+    "item5": "Bog'lanish",
+    "item6": "Hamkorlar"
+  },
+  "home": {
+    "title": "Bosh sahifa",
+    "description": "Ushbu bosh sahifaning ta'rifidir."
+  }
+}

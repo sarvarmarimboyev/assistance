@@ -1,0 +1,40 @@
+footer {
+  margin-top: 100px;
+  background-color: #13976e;
+}
+
+footer .footer_info {
+  display: flex;
+  align-items: center;
+}
+
+footer .footer_info img {
+  width: 220px;
+}
+
+
+footer .footer_info2 .footer-items{
+  display: flex;
+}
+footer .footer_info2 ul {
+  display: grid;
+}
+footer .footer_info2 ul li{
+  list-style: none;
+}
+
+footer .footer_info2 ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+footer p {
+  font-size: 13px;
+  text-align: center;
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+
+footer p span {
+  color: yellow;
+}
