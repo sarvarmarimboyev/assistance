@@ -1,5 +1,12 @@
 import React from "react";
-
-export default function About() {
-  return <div>About</div>;
-}
+import "./about.css";
+const About = () => {
+  return (
+    <div>
+      <div className="animated-text">
+        <h1 className="slide-in">Welcome</h1>
+      </div>
+    </div>
+  );
+};
+export default About;

@@ -12,6 +12,7 @@ import Partners from './pages/Partners/Partners';
 import Contact from './pages/Contacts/Contact';
 import Docs from './pages/Docs/Docs';
 import Default from './pages/Default/Default';
+import { Departments } from './pages/Departments/Departments';
 
 const App = () => {
   return (
@@ -20,6 +21,8 @@ const App = () => {
         <Navbar />
         <Switch>
           <Route exact path="/" component={Home} />
+          <Route exact path="/departments" component={Departments} />
+
           <Route path="/news" component={News} />
           <Route path="/services" component={Services} />
           <Route path="/about" component={About} />
