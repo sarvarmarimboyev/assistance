@@ -12,7 +12,12 @@ import Partners from './pages/Partners/Partners';
 import Contact from './pages/Contacts/Contact';
 import Docs from './pages/Docs/Docs';
 import Default from './pages/Default/Default';
-import { Departments } from './pages/Departments/Departments';
+import { Departments } from './components/Subfiles/Departments/Departments';
+import Servicedetail1 from "./components/Subfiles/Service-detail/service-detail1/Servicedetail1"
+import Servicedetail2 from "./components/Subfiles/Service-detail/service-detail2/Servicedetail2"
+import Servicedetail3 from "./components/Subfiles/Service-detail/service-detail3/Servicedetail3"
+import Servicedetail4 from "./components/Subfiles/Service-detail/service-detail4/Servicedetail4"
+
 
 const App = () => {
   return (
@@ -21,15 +26,21 @@ const App = () => {
         <Navbar />
         <Switch>
           <Route exact path="/" component={Home} />
+          {/*  */}
+          <Route exact path="/service-detail1" component={Servicedetail1} />
+          <Route exact path="/service-detail2" component={Servicedetail2} />
+          <Route exact path="/service-detail3" component={Servicedetail3} />
+          <Route exact path="/service-detail4" component={Servicedetail4} />
           <Route exact path="/departments" component={Departments} />
 
+          {/*  */}
           <Route path="/news" component={News} />
           <Route path="/services" component={Services} />
           <Route path="/about" component={About} />
           <Route path="/contact" component={Contact} />
           <Route path="/partners" component={Partners} />
           <Route path="/docs" component={Docs} />
-          <Route path="*" component={Default} />
+          <Route component={Default} />
         </Switch>
         <Footer />
       </I18nextProvider>

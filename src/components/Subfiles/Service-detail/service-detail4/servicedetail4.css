@@ -1,0 +1,60 @@
+.service4 .custom-carousel .slick-slide img {
+  height: 70vh;
+  object-fit: cover;
+  width: 100%;
+}
+
+.service4 .custom-carousel .slick-track {
+  display: flex;
+  align-items: center;
+}
+
+.service4 .custom-carousel .slick-dots {
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.service4 .custom-carousel .slick-dots li {
+  margin: 0 4px;
+}
+
+.service4 .custom-carousel .slick-dots li button {
+  width: 10px;
+  height: 10px;
+  background-color: rgb(136, 136, 136);
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.service4 .container h1 {
+  color: #13976e;
+  padding: 20px 0px;
+}
+
+.service4 p {
+  font-size: 15px;
+  padding-top: 12px;
+}
+.service4 .container .service__last img {
+  width: 43px;
+  margin-top: 40px;
+}
+
+@media (max-width: 700px) {
+  .service4 .custom-carousel .slick-slide img {
+    height: 30vh;
+  }
+}
+@media (max-width: 500px) {
+  .service4 h1 {
+    font-size: 18px;
+  }
+  .service4 p {
+    font-size: 12px;
+  }
+}

@@ -1,8 +1,232 @@
-.home__first .home_carusel img {
-  overflow: hidden;
+.home__first .custom-carousel .slick-slide img {
+  height: 70vh;
+  object-fit: cover;
   width: 100%;
+}
+
+.home__first .custom-carousel .slick-track {
+  display: flex;
+  align-items: center;
+}
+
+.home__first .custom-carousel .slick-dots {
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.home__first .custom-carousel .slick-dots li {
+  margin: 0 4px;
+}
+
+.home__first .custom-carousel .slick-dots li button {
+  width: 10px;
+  height: 10px;
+  background-color: rgb(136, 136, 136);
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.home__secound .container h1 {
+  padding: 40px 0px;
+  font-size: 45px;
+  font-weight: 400;
+}
+
+.home__secound .container .home__boxs .home__box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  border-top: 1px solid;
+  padding: 25px 0px;
+  gap: 20px;
+}
+
+.home__secound .container .home__boxs .home__box img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.home__secound .container .home__boxs .home__box .home__boxright h3 {
+  padding: 20px 0px;
+  color: #13976e;
+  font-size: 27px;
+}
+.home__secound .container .home__boxs .home__box .home__boxright {
+  display: grid;
+  grid-template-rows: 1fr 1.5fr 0.2fr;
+}
+
+.home__secound .container .home__boxs .home__box .home__boxright button {
+  background-color: #fff;
+  color: #ea5942;
+  border: 1px solid #000;
+  padding: 10px 40px;
+  width: 300px;
+  font-size: 15px;
+  height: 40px;
+}
+
+.home__secound .container .home__boxs .home__box .home__boxright button:hover {
+  background-color: #ea5942;
+  color: #fff;
+  border: none;
+  transition: 0.5s;
+}
+
+.home__third .home__thirdSupport {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  padding: 20px 0px;
+  gap: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.home__third .home__thirdSupport .home__thirdLeft p {
+  padding-top: 10px;
+}
+
+.home__third .home__thirdSupport .home__thirdRight .third__rightBoxs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+.home__third
+  .home__thirdSupport
+  .home__thirdRight
+  .third__rightBoxs
+  .third__rightBox {
+  border: 1px solid;
+  padding: 15px 10px;
+}
+
+.home__third
+  .home__thirdSupport
+  .home__thirdRight
+  .third__rightBoxs
+  .third__rightBox
+  h2 {
+  color: #13976e;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.home__third
+  .home__thirdSupport
+  .home__thirdRight
+  .third__rightBoxs
+  .third__rightBox:hover {
+  background-color: #13976e;
+  color: #fff;
+}
+
+.home__third
+  .home__thirdSupport
+  .home__thirdRight
+  .third__rightBoxs
+  .third__rightBox:hover
+  .rightbox__bottom
+  h4 {
+  color: #fff;
+}
+
+.home__third
+  .home__thirdSupport
+  .home__thirdRight
+  .third__rightBoxs
+  .third__rightBox:hover
+  h2 {
+  color: #fff;
+}
+.home__third
+  .home__thirdSupport
+  .home__thirdRight
+  .third__rightBoxs
+  .third__rightBox
+  p {
+  padding: 20px 0px;
+}
+
+.home__third
+  .home__thirdSupport
+  .home__thirdRight
+  .third__rightBoxs
+  .third__rightBox
+  .rightbox__bottom {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.home__third
+  .home__thirdSupport
+  .home__thirdRight
+  .third__rightBoxs
+  .third__rightBox
+  .rightbox__bottom
+  img {
   height: 100%;
 }
-.home__first .home_carusel {
-  overflow: inherit;
+
+.home__third
+  .home__thirdSupport
+  .home__thirdRight
+  .third__rightBoxs
+  .third__rightBox
+  .rightbox__bottom
+  h4 {
+  color: #ea5942;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.home__third button {
+  width: 100%;
+  background-color: #fff;
+  color: #ea5942;
+  padding: 15px 0px;
+  text-align: center;
+  border: 1px solid;
+  margin: 70px 0px;
+  font-size: 16px;
+}
+
+.home__third button:hover {
+  color: #fff;
+  background-color: #ea5942;
+  transition: 0.5s;
+}
+
+@media (max-width: 800px) {
+  .home__secound .container h1 {
+    font-size: 25px;
+  }
+
+  .home__secound .container .home__boxs .home__box {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .home__third .home__thirdSupport {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 1000px) {
+  .home__third .home__thirdSupport .home__thirdRight .third__rightBoxs {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 400px) {
+  .home__secound .container .home__boxs .home__box .home__boxright button {
+    width: inherit;
+    padding: 10px 0px;
+  }
 }

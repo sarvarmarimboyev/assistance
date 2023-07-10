@@ -1,0 +1,39 @@
+.service2 .container .service2__img img {
+  width: 99%;
+  height: 70vh;
+  object-fit: cover;
+  margin-top: 50px;
+}
+
+.service2 .container .service2__img {
+  text-align: center;
+}
+.service2 .container .service__last img {
+  width: 43px;
+  margin-top: 40px;
+}
+.service2 h1 {
+  color: #13976e;
+  padding: 20px 0px;
+}
+
+.service2 p {
+  line-height: 30px;
+  font-size: 15px;
+  padding-top: 12px;
+}
+
+
+
+@media (max-width: 500px) {
+    .service2 .container .service2__img img {
+      height: 30vh;
+    }
+    .service2 h1 {
+      font-size: 18px;
+    }
+    .service2 p {
+      font-size: 12px;
+    }
+  }
+  

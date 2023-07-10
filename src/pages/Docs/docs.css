@@ -1,0 +1,30 @@
+.docs__head .container h1 {
+  text-align: center;
+  color: #13976e;
+  margin: 50px 0px 20px 0px;
+  font-size: 30px;
+}
+
+.docs__head .container .docs__bottomContent {
+  display: grid;
+  margin-bottom: 70px;
+}
+
+.docs__head .container .docs__bottomContent a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.docs__head .container .docs__bottomContent .content__title {
+  color: #4183c4;
+  padding: 10px 0px;
+}
+
+@media (max-width: 400px) {
+  .docs__head .container .docs__bottomContent {
+    font-size: 13px;
+  }
+  .docs__head .container h1 {
+    font-size: 18px;
+  }
+}

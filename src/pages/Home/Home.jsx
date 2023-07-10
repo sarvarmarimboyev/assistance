@@ -12,14 +12,15 @@ import Homebox3 from "../../assets/home/home3.jpg";
 import Homebox4 from "../../assets/home/home4.jpg";
 import Right from "../../assets/right.png";
 import { Location } from "../../components/Location/Location";
+import { Link } from "react-router-dom";
 const Home = () => {
   const { t } = useTranslation();
 
   return (
     <>
       <section className="home__first">
-        <div className="home_carusel">
-          <Carousel autoplay>
+        <div className="home__carousel">
+          <Carousel autoplay dotPosition="bottom" className="custom-carousel">
             <div>
               <img src={Carusel1} alt="" />
             </div>
@@ -32,6 +33,7 @@ const Home = () => {
           </Carousel>
         </div>
       </section>
+
       <section className="home__secound">
         <div className="container">
           <h1>{t("home.home-title1")}</h1>
@@ -43,7 +45,9 @@ const Home = () => {
               <div className="home__boxright">
                 <h3>{t("home.home-title2")}</h3>
                 <p>{t("home.home-discription1")}</p>
-                <button>{t("home.home-button1")}</button>
+                <Link to="/service-detail1">
+                  <button>{t("home.home-button1")}</button>
+                </Link>
               </div>
             </div>
             <div className="home__box">
@@ -53,27 +57,33 @@ const Home = () => {
               <div className="home__boxright">
                 <h3>{t("home.home-title3")}</h3>
                 <p>{t("home.home-discription2")}</p>
-                <button>{t("home.home-button1")}</button>
+                <Link to="/service-detail2">
+                  <button>{t("home.home-button1")}</button>
+                </Link>
               </div>
-              <div className="home__box">
-                <div className="home__boxleft">
-                  <img src={Homebox3} alt="" />
-                </div>
-                <div className="home__boxright">
-                  <h3>{t("home.home-title4")}</h3>
-                  <p>{t("home.home-discription3")}</p>
+            </div>
+            <div className="home__box">
+              <div className="home__boxleft">
+                <img src={Homebox3} alt="" />
+              </div>
+              <div className="home__boxright">
+                <h3>{t("home.home-title4")}</h3>
+                <p>{t("home.home-discription3")}</p>
+                <Link to="/service-detail3">
                   <button>{t("home.home-button1")}</button>
-                </div>
-              </div>{" "}
-              <div className="home__box">
-                <div className="home__boxleft">
-                  <img src={Homebox4} alt="" />
-                </div>
-                <div className="home__boxright">
-                  <h3>{t("home.home-title5")}</h3>
-                  <p>{t("home.home-discription4")}</p>
+                </Link>
+              </div>
+            </div>
+            <div className="home__box">
+              <div className="home__boxleft">
+                <img src={Homebox4} alt="" />
+              </div>
+              <div className="home__boxright">
+                <h3>{t("home.home-title5")}</h3>
+                <p>{t("home.home-discription4")}</p>
+                <Link to="/service-detail4">
                   <button>{t("home.home-button1")}</button>
-                </div>
+                </Link>
               </div>
             </div>
           </div>
@@ -126,7 +136,9 @@ const Home = () => {
               </div>
             </div>
           </div>
-          <button>{t("home.home-button1")}</button>
+          <Link to="departments">
+            <button>{t("home.home-button2")}</button>
+          </Link>
         </div>
       </section>
 

@@ -1,0 +1,103 @@
+.contact__main {
+  display: grid;
+  gap: 15px;
+  justify-content: center;
+  grid-template-columns: 1fr;
+  margin: 50px 0px;
+}
+.contact__main .contact__left .contact__leftTop {
+  border: 1px solid;
+  padding: 15px;
+  height: 200px;
+}
+
+.contact__main .contact__left .contact__leftTop {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+}
+.contact__main .contact__left .contact__leftTop .top__left h1 {
+  font-size: 25px;
+}
+.contact__main .contact__left .contact__leftTop .top__left h3 {
+  color: #13976e;
+  font-size: 20px;
+  padding: 10px 0px;
+  font-weight: 400;
+}
+
+.contact__main .contact__left .contact__leftTop .top__left h2 {
+  font-size: 18px;
+  font-weight: 400;
+  color: rgb(77, 75, 75);
+}
+
+.contact__main .contact__left .contact__leftTop .top__left h2 {
+  font-size: 20px;
+}
+
+.contact__main .contact__left .contact__leftTop .top__right h4 {
+  color: #13976e;
+  font-size: 25px;
+  font-weight: 400;
+}
+.contact__main .contact__left .contact__leftTop .top__right h3 {
+  margin-top: 20px;
+  font-weight: 400;
+  color: rgb(77, 75, 75);
+}
+
+.contact__main .contact__left .contact__bottom .contact__leftBottom {
+  border: 1px solid;
+  height: 150px;
+  padding: 15px;
+}
+
+.contact__main .contact__left .contact__bottom .contact__leftBottom h3 {
+  color: #13976e;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 15px;
+}
+.contact__main .contact__left .contact__bottom {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 500px) {
+  .contact__main .contact__left .contact__leftTop {
+    width: 90%;
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .contact__main .contact__left .contact__bottom {
+    display: grid;
+    grid-template-columns: 1fr;
+    text-align: center;
+    width: 90%;
+  }
+  .contact__main .contact__left .contact__bottom .contact__leftBottom h3 {
+    font-size: 13px;
+  }
+
+  .contact__main .contact__left .contact__bottom .contact__leftBottom p {
+    font-size: 12px;
+  }
+  .contact__main .contact__left .contact__leftTop .top__left h1 {
+    font-size: 17px;
+  }
+  .contact__main .contact__left .contact__leftTop .top__left h3 {
+    font-size: 13px;
+  }
+  .contact__main .contact__left .contact__leftTop .top__left h2 {
+    font-size: 12px;
+  }
+  .contact__main .contact__left .contact__leftTop .top__right h4 {
+    font-size: 13px;
+  }
+  .contact__main .contact__left .contact__leftTop .top__right h3 {
+    font-size: 12px;
+  }
+}

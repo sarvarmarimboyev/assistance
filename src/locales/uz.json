@@ -36,10 +36,47 @@
     "home-box-title3": "Majburiy avto sug’urta turi bo’yicha da’vo ishlarini ko’rib chiqish bo’limi",
     "home-box-discription3": "Kompaniya Call – markazi maʼlumotlariga asosan yo‘l transport hodisasi sodir bo‘lganda bevosita joyiga chiqish, sug‘urta ho...",
     "home-box-title4": "Ixtiyoriy sug'urta turlari bo'yicha da'volarni ko'rib chiqish bo'limi",
-    "home-box-discription4": "Kompaniya Call – markazi ma’lumotlariga asosan yo‘l-transport hodisasi sodir bo‘lganda bevosita joyiga chiqish, zarar ko&ls...",
+    "home-box-discription4": "Kompaniya Call – markazi ma’lumotlariga asosan yo‘l-transport hodisasi sodir bo‘lganda bevosita joyiga chiqish, zarar ko'rs...",
     "home-box-title5": "Yuridik Bo'lim",
     "home-box-discription5": "Qonun talablariga asosan, Davlat mablag’larini qaytarish maqsadida sug’urta hodisasida aybdorligi tasdiqlangan shaxslardan regress huqu...",
-    "home-button2": "Batafsil"
+    "home-button2": "Batafsil",
+    "service-detail1": {
+      "service-detailDesc1": "Tibbiy yordam - Tibbiy yordam - sayohat paytida tibbiy va transport yordamini tashkil etish bo'yicha xizmatlar to'plami. Turistga xizmatlar sug'urta polisi bo'yicha taqdim etiladi.",
+      "service-detailDesc2": "Ba'zida sug'urta yordami va sug'urta xizmati kabi terminologiya qo'llaniladi.",
+      "service-detailDesc3": "Ushbu faoliyat bilan shug'ullanuvchi xizmat ko'rsatuvchi kompaniya tibbiy muassasani topish, kerakli mutaxassisning qabuliga yozilish, xizmatlar uchun haq to'lash va sug'urtalanganni doimiy yashash mamlakatiga olib borish bilan shug'ullanadi."
+    },
+    "service-detail2": {
+      "service-detailDesc1": "huquqiy yordam bo'limi:",
+      "service-detailDesc2": "og'zaki va yozma yuridik maslahatlar berish;",
+      "service-detailDesc3": "fuqarolik, iqtisodiy, jinoiy, ma’muriy ish yuritishda ishtirok etmagan holda da’vo arizalari, apellyatsiya va kassatsiya shikoyatlarini, shuningdek boshqa protsessual hujjatlarni rasmiylashtirish;surishtiruv organlarida va sudda ma'muriy ish yuritish jarayonida manfaatlarni ifodalash. Ma'muriy javobgarlik to'g'risidagi qarorlar ustidan shikoyat qilish;baxtsiz hodisa natijasida yetkazilgan moddiy va ma’naviy zararni qoplash to‘g‘risidagi da’volar bo‘yicha har qanday instansiya sudida fuqarolik, xo‘jalik protsessida manfaatlarni ifodalash;baxtsiz hodisa natijasida etkazilgan moddiy va ma'naviy zararni qoplash to'g'risidagi fuqarolik da'volari bo'yicha har qanday instansiya sudida jinoyat protsessida manfaatlarni ifodalash;sug'urta tovonini to'lash to'g'risidagi da'volar bo'yicha har qanday instansiya sudida fuqarolik, xo'jalik protsessida manfaatlarni ifodalash;moddiy zararni minimallashtirish maqsadida avtotovar tadqiqotlari/ekspertizalarini huquqiy tekshirish."
+    },
+    "service-detail3": {
+      "service-detailDesc1": "Texnik komissarning xizmatlari (voqea joyiga jo'nab ketish, tekshirish, sug'urta tovonining miqdorini aniqlash, sug'urtalovchi (sug'urta qildiruvchi) uchun ekspert xulosasini tuzish, zararni qoplashda ishtirok etish).",
+      "service-detailDesc2": "Evakuator xizmatlari: yo‘l-transport hodisasida texnik nosozlik yoki shikastlanganda avtomobilni texnik xizmat ko‘rsatish shoxobchasiga tashish (O‘zbekiston Respublikasining butun hududi bo‘ylab).",
+      "service-detailDesc3": "- O'zbekiston Respublikasining istalgan mintaqasidagi xizmat ko'rsatish shoxobchalarida, polis berilgan joydan qat'i nazar, ta'mirlash ishlarini qamrab olish.- sug'urta kompaniyasining sug'urtalangan shaxs oldidagi kafolat majburiyatlari."
+    },
+    "service-detail4": {
+      "service-detailDesc1": "Mehmonxonalarda joylarni bron qilish, havo va temir yo'l transportiga chiptalar taqdim etish, tarjima xizmatlarini ko'rsatish, taksi xizmatlarini ko'rsatish, boshqa xizmatlar, dori vositalarini qidirish va etkazib berish."
+    },
+    "departments": {
+      "main-title1": "Отдел международного сотрудничества",
+      "main-description1": "Отдел международного сотрудничества ООО «Узбекинвест Ассистанс» отвечает за организацию международных связей общества и обеспечение преемственности отношений.",
+      "main-description2": "Помимо налаживания сотрудничества с новыми партнерами, в обязанности отдела также входит организация оказания необходимой помощи туристам, прибывающим на территорию Республики Узбекистан с туристическим полисом.",
+      "main-description3": "Сотрудничаем со 127 медицинскими учреждениями во всех областных центрах и отдаленных районах Республики Узбекистан. Среди них самые крупные больницы: «“SHOX MED CENTRE”, “EMU Clinic”, “MDS Servis”, “Doktor-D”, “Azimed Hospital” “Star med”",
+      "main-description4": "Нашими зарубежными партнерами являются Euroasia Assistance, Inter Assist, Missadena, Jiang Tai Global Assistance, VMA LLC, AP Companies Ltd, Global Voyager Assistance, Remed Assistance и Balt Assistance.",
+      "departmentBox": {
+        "box-title1": "Наши местные медицинские и технические партнеры",
+        "box-title2": "Наши местные медицинские и технические партнеры",
+        "box-title3": "Наши партнеры среди страховых компаний",
+        "box-description1": "Allianz Global Assistance (ранее Mondial Assistance) компания Allianz берет свою историю с 1890 года. Она была основана в Мюнхене, осно...",
+        "box-description2": "Международная больница Шох Shox International Hospital - крупнейшая частная медицинская сеть клиник в Узбекистане, специали...",
+        "box-description3": "Узбекинвест Компания экспортно-импортного страхования «Узбекинвест» АО функционирует на рынке в отрасли «общего страх...",
+        "box-title4": "ОСГОВТС",
+        "box-title5": "ЕВРО ПРОТОКОЛ",
+        "box-discription4": "Обязательное страхование гражданской ответственности владельцев транспортных средств (ОСГОВТС) – это обусловленный законо...",
+        "box-discription5": "Информирование страховщика о дорожно-транспортном происшествии путем составления извещения водителями, участвовавшими в а..."
+      }
+    }
   },
   "location": {
     "location-table-title1": "Bog'lanish",
@@ -49,9 +86,14 @@
     "location-table-title3": "Теlefon",
     "location-table-discription3": "+998 90 3279955",
     "location-table-title4": "Obuna bo'ling",
-    "location-table-discription4": "Instagram Telegram Facebook YouTube",
+    "location-table-discription4": "Instagram  Telegram  Facebook  YouTube",
     "location-table-title5": "Elektron pochta",
-    "location-table-discription5": "assist@uzbekinvest.uz"
+    "location-table-discription5": "assist@uzbekinvest.uz",
+    "location-contact": "To'g'ridan-to'g'ri aloqa raqami",
+    "location-contactNumber1": "+998 90 008 11 60",
+    "location-contactNumber2": "+998 90 004 11 60",
+    "location-contactShortDisc": "Qisqa raqam",
+    "location-contactShortNum": "11 60"
   },
   "news": {
     "news-title1": "Yangiliklar"
@@ -62,8 +104,72 @@
     "service-title3": "Texnik assistans",
     "service-title4": "Shaxsiy assistans",
     "service-discription1": "Tibbiy yordam - Tibbiy yordam - sayohat paytida tibbiy va transport yordamini tashkil etish bo'yicha xizmatlar to'plami. Turistga xizmatlar sug'urta polisi bo'yicha taqdim etiladi.Ba'zida sug'urta yordami va sug'urta xizmati kabi terminologiya qo'llaniladi.Ushbu faoliyat bilan shug'ullanuvchi xizmat ko'rsatuvchi kompaniya tibbiy muassasani topish, kerakli mutaxassisning qabuliga yozilish, xizmatlar uchun haq to'lash va sug'urtalanganni doimiy yashash mamlakatiga olib borish bilan shug'ullanadi.",
-    "service-discription2": "huquqiy yordam bo'limi:og'zaki va yozma yuridik maslahatlar berish ,fuqarolik, iqtisodiy, jinoiy, ma’muriy ish yuritishda ishtirok etmagan holda da’vo arizalari, apellyatsiya va kassatsiya shikoyatlarini, shuningdek boshqa protsessual hujjatlarni rasmiylashtirish;  surishtiruv organlarida va sudda ma'muriy ish yuritish jarayonida manfaatlarni ifodalash. Ma'muriy javobgarlik to'g'risidagi qarorlar ustidan shikoyat qilish baxtsiz hodisa natijasida yetkazilgan moddiy va ma’naviy zararni qoplash to‘g‘risidagi da’volar bo‘yicha har qanday instansiya sudida fuqarolik, xo‘jalik protsessida manfaatlarni ifodalash baxtsiz hodisa natijasida etkazilgan moddiy va ma'naviy zararni qoplash to'g'risidagi fuqarolik da'volari bo'yicha har qanday instansiya sudida jinoyat protsessida manfaatlarni ifodalash;sug'urta tovonini to'lash to'g'risidagi da'volar bo'yicha har qanday instansiya sudida fuqarolik, xo'jalik protsessida manfaatlarni ifodalash moddiy zararni minimallashtirish maqsadida avtotovar tadqiqotlari/ekspertizalarini huquqiy tekshirish.",
+    "service-discription2": "huquqiy  yordam bo'limi:og'zaki va yozma yuridik maslahatlar berish ,fuqarolik, iqtisodiy, jinoiy, ma’muriy ish yuritishda ishtirok etmagan holda da’vo arizalari, apellyatsiya va kassatsiya shikoyatlarini, shuningdek boshqa protsessual hujjatlarni rasmiylashtirish;  surishtiruv organlarida va sudda ma'muriy ish yuritish jarayonida manfaatlarni ifodalash. Ma'muriy javobgarlik to'g'risidagi qarorlar ustidan shikoyat qilish baxtsiz hodisa natijasida yetkazilgan moddiy va ma’naviy zararni qoplash to‘g‘risidagi da’volar bo‘yicha har qanday instansiya sudida fuqarolik, xo‘jalik protsessida manfaatlarni ifodalash baxtsiz hodisa natijasida etkazilgan moddiy va ma'naviy zararni qoplash to'g'risidagi fuqarolik da'volari bo'yicha har qanday instansiya sudida jinoyat protsessida manfaatlarni ifodalash;sug'urta tovonini to'lash to'g'risidagi da'volar bo'yicha har qanday instansiya sudida fuqarolik, xo'jalik protsessida manfaatlarni ifodalash moddiy zararni minimallashtirish maqsadida avtotovar tadqiqotlari/ekspertizalarini huquqiy tekshirish.",
     "service-discription3": "Texnik komissarning xizmatlari (voqea joyiga jo'nab ketish, tekshirish, sug'urta tovonining miqdorini aniqlash, sug'urtalovchi (sug'urta qildiruvchi) uchun ekspert xulosasini tuzish, zararni qoplashda ishtirok etish).Evakuator xizmatlari: yo‘l-transport hodisasida texnik nosozlik yoki shikastlanganda avtomobilni texnik xizmat ko‘rsatish shoxobchasiga tashish (O‘zbekiston Respublikasining butun hududi bo‘ylab). O'zbekiston Respublikasining istalgan mintaqasidagi xizmat ko'rsatish shoxobchalarida, polis berilgan joydan qat'i nazar, ta'mirlash ishlarini qamrab olish. Sug'urta kompaniyasining sug'urtalangan shaxs oldidagi kafolat majburiyatlari.",
     "service-discription4": "Mehmonxonalarda joylarni bron qilish, havo va temir yo'l transportiga chiptalar taqdim etish, tarjima xizmatlarini ko'rsatish, taksi xizmatlarini ko'rsatish, boshqa xizmatlar, dori vositalarini qidirish va etkazib berish."
+  },
+  "pageControllerText": "Foydali havolalar",
+  "about": {
+    "about-title1": "Biz haqimizda",
+    "about-discription1": "2000 yilda tashkil etilgan “O‘zbekinvest Assistance” MCHJ O‘zbekiston Respublikasidagi asosiy assistans kompaniyalardan biri hisoblanadi.\n",
+    "about-title2": "“O‘zbekinvest Assistans” mas’uliyati cheklangan jamiyati ichki bozordan tashqari xorijiy assistans kompaniyalarga ham xizmat ko‘rsatadi. Bugungi kunda bizning hamkorlarimiz “Euroasia Assistance”, “Inter Assist”, “Missadena”, “Jiang Tai Global Assistance”, “VMA” LLC, “AP Companies” Ltd, “Global Voyadger Assistance”, “Remed Assistance” va “Balt Assistance” va boshqalar kabi assistans kompaniyalari hisoblanadi",
+    "about-title3": "Rahbariyat",
+    "employee-img1": "http://assistance.uz/static/media/director.6901ce2ab3ce13fb663f.png",
+    "employee-name1": "Maxmudov Avzal Mamadjanovich",
+    "employee-position1": "Direktor",
+    "employee-contact1": " Telefon:   (78) 120 03 51",
+    "employee-entrance1": " Qabul kunlari:    Dushanba 8:00-11:00, Chorshanba 8:00-11:00, Juma 8:00-11:00",
+    "employee-email1": "  Elektron manzil:    assist@uzbekinvest.uz",
+    "employee-discription1": "Maxmudov Avzal Mamajanovich 1988 yil 6 avgust kuni Toshkent shahrida tug’ilgan. Ma’lumoti oliy. 2009 yil Toshkent davlat iqtisodiyot universiteti bakalavr darajasi va 2011 yil Toshkent davlat iqtisodiyot universiteti magistraturani ta’momlagan.",
+    "employee-current-position1": "2021 yil 6 sentyabrdan “O’zbekinvest Assistans” MCHJ Direktori ",
+    "employee-img2": "http://assistance.uz/static/media/zam-direktor.44276ba8db158b25787b.jpg",
+    "employee-name2": "Yakubov Toxir Yusufjanovich",
+    "employee-position2": "Direktor o'rinbosari",
+    "employee-contact2": " Telefon:   (78) 120 03 51",
+    "employee-entrance2": " Qabul kunlari:    Seshanba 8:00-11:00, Payshanba 8:00-11:00, Shanba 8:00-11:00",
+    "employee-email2": "  Elektron manzil:    assist@uzbekinvest.uz",
+    "employee-discription2": "Yakubov Toxir Yusufjanovich 1989 yil 22 oktyabr kuni Toshkent shahrida tug’ilgan. Ma’lumoti magistr. 2013 yil Toshkent davlat iqtisodiyot universiteti bakalavr va 2015 yil Toshkent davlat iqtisodiyot universiteti magistr unvonini olgan.",
+    "employee-current-position2": "2021 yil 6 sentyabrdan “O’zbekinvest Assistans” MCHJ Direktor o’rinbosari",
+    "employee-img3": "http://assistance.uz/static/media/manager.74c804c707b313039dd5.jpg",
+    "employee-name3": "Axmetov Kabul Ataevich",
+    "employee-position3": "“O’zbekinvest Assistans” MCHJ Bosh menejeri",
+    "employee-contact3": " Telefon:   (78) 120 03 51",
+    "employee-entrance3": " Qabul kunlari:   Dushanba 8:00-11:00, Chorshanba 8:00-11:00, Juma 8:00-11:00",
+    "employee-email3": "   Elektron manzil:     assist@uzbekinvest.uz",
+    "employee-discription3": "Axmetov Kabul Ataevich 1964 yil 18 avgust kuni Toshkent shahrida tug’ilgan. Ma’lumoti oliy. 1986 yil Toshkent davlat universiteti bakalavr va 1995 yil Toshkent davlat iqtisodiyot universiteti magistr unvonini olgan.",
+    "employee-current-position3": "2021 yil 6 sentyabrdan “O’zbekinvest Assistans” MCHJ Ixtiyoriy sug’urta turlari bo’yicha da’vo ishlarini ko’rib chiqish bo’limi bosh menejeri"
+  },
+  "partners": {
+    "partners-title": "Hamkorlarimiz",
+    "partners-title1": "Kompaniyaning asosiy afzalliklari",
+    "partners-discription1": "• Assistans xizmatlari - texnik, tibbiy va yuridik yordam ko'rsatish bo'yicha 21 yildan ortiq tajriba. • Noyob ma'lumotlar bazasi, telefon suhbatlarini yozib olish bilan integratsiyalashgan IP-telefoniya bilan jihozlangan kechayu kunduz ishlaydigan dispetcherlik markazi. • Ish kechayu-kunduz, tanaffussiz, dam olish va bayramlarsiz amalga oshiriladi. • Kasbiy tayyorgarlikka ega kadrlar, jumladan, yuqori malakali shifokorlar va huquqshunoslar. • Kasalxonaga yotqizishni tashkil etish. • Repatriatsiyani tashkil etish.",
+    "partners-contact": "Bog'lanish",
+    "partners-bottomTitle1": "Aria",
+    "partners-bottomTitle2": "Avtoritet",
+    "partners-bottomTitle3": "O'zbekinvest",
+    "partners-bottomTitle4": "INGO Uzbekistan",
+    "partners-bottomTitle5": "EURASIA ASSISTANCE",
+    "partners-bottomTitle6": "REMED ASSISTANCE",
+    "partners-bottomTitle7": "GLOBAL VOYAGER",
+    "partners-bottomTitle8": "MISSADENA Co ltd",
+    "partners-bottomDisc1": "Biz ARIA jamoasi, sizni jamiyatimizning bir qismi bo'lishingizni xohlaymiz. Bizning jamoamiz xotirjamlik va isonchni taqdim etadi. Bu esa mijozlarga biznesni yanada rivojlantirish masalalariga e’tibor qaratishga imkon yaratadi.",
+    "partners-bottomDisc2": "“Avtoritet Group” kompaniyalar guruhining hamkorlari o'z faoliyatlarini quyidagi yo'nalishlarda olib boradilar: avtomobillarni sotish, transport vositalariga kafolatli va texnik xizmat ko'rsatish, yuk tashish, ehtiyot qismlarni etkazib berish",
+    "partners-bottomDisc3": " “O‘zbekinvest” eksport-import aksiyadorlik jamiyati sug'urta kompaniyasi umumiy sug'urta bozorida o‘z faoliyatini olib boradi ва sug'urta faoliyati klassifikatoriga ko‘ra mavjud 17 turdagi sug‘urtaning barchasi билан shug‘ullanadi",
+    "partners-bottomDisc4": "INGO-UZBEKISTAN kompaniyasi – biznes manfaatlarining kompleks himoya dasturlari hamda xususiy shaxslar uchun sug‘urta mahsulotlarinnig keng qamrovini o‘z ichiga olgan universal xizmat portfeliga ega O‘zbekistonnning eng yirik sug‘urtachilaridan biridir.",
+    "partners-bottomDisc5": "Eurasia Assistance Rossiya va butun dunyoda tibbiy, yo'l bo'yida yordam va konsyerj xizmatlarini tashkil qiladi va muvofiqlashtiradi. Biz insonning hayoti va sog'lig'i, uning oilasi, shuningdek mol-mulki: kvartira / uy, mashina va boshqalar haqida g'amxo'rlik qilish uchun kutilmagan vaziyatlarda eng yaxshi echimlarni topishga yordam beramiz.",
+    "partners-bottomDisc6": "Remed Assistance butun dunyo bo'ylab xizmatlar ko'rsatuvchi o'sib borayotgan yordam kompaniyasidir. Remed brendi tajriba, ishonchlilik va samaradorlikning sinonimiga aylandi.",
+    "partners-bottomDisc7": "Global Voyager Assistance - 1998 yilda tashkil etilgan xalqaro tibbiy yordam kompaniyasi. GVA ning asosiy faoliyati butun dunyo bo'ylab sayohatchilar, chet elliklar, dengizchilar va xalqaro tashkilotlarga tibbiy va texnik yordam ko'rsatishdir. Ochilish vaqtida kompaniyaning boshqaruv xodimlari tibbiy yordam ko'rsatish sohasida ko'p yillik tajribaga ega edi.",
+    "partners-bottomDisc8": "Missadena - bu inson hayotining turli sohalarida xizmatlarni tashkil etishda professional xizmat ko'rsatishni ta'minlovchi ko'p tarmoqli tibbiy kompaniya (litsenziya № LO 61-01-007-715)."
+  },
+  "docs": {
+    "docs-title": "Hujjatlar",
+    "docs-title1": "O‘RQ-684 22.04.2021",
+    "docs-title2": "O‘RQ-730 23.11.2021",
+    "docs-title3": "YTH xabarnoma blankasi",
+    "docs-title4": "Fuqarolik kodeksi",
+    "docs-discripton1": "( Davlat xaridlari to’g’risidagi O’zbekiston Respublikasi qonuni )",
+    "docs-discripton2": "( Sug’urta faoliyati to’grisidagi O’zbekiston Respublikasi qonuni )",
+    "docs-discripton3": "( Yo’l transport hodisasi to’g’risidagi xabarnoma )",
+    "docs-discripton4": "( O’zbekiston Respublikasining fuqarolik kodeksi. )"
   }
 }

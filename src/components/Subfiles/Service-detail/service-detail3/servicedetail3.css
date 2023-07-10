@@ -1,0 +1,34 @@
+.service3 .container .service3__img img {
+  width: 99%;
+  height: 70vh;
+  object-fit: cover;
+  margin-top: 50px;
+}
+
+.service3 .container .service3__img {
+  text-align: center;
+}
+.service3 .container .service__last img {
+  width: 43px;
+  margin-top: 40px;
+}
+.service3 .container h1 {
+  color: #13976e;
+  padding: 20px 0px;
+}
+
+.service3 p {
+  font-size: 15px;
+  padding-top: 12px;
+}
+@media (max-width: 500px) {
+  .service3 .container .service3__img img {
+    height: 30vh;
+  }
+  .service3 h1 {
+    font-size: 18px;
+  }
+  .service3 p {
+    font-size: 12px;
+  }
+}

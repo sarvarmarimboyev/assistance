@@ -1,4 +1,4 @@
-.animated-text {
+/* .animated-text {
     position: relative;
     overflow: hidden;
   }
@@ -27,3 +27,103 @@
     }
   }
   
+
+  @keyframes rotate {
+    0% {
+      transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    }
+    100% {
+      transform: rotateX(180deg) rotateY(0deg) rotateZ(0deg);
+    }
+  }
+  
+  .cube {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation: rotate 0.4s linear;
+    transform-style: preserve-3d;
+  }
+   */
+
+.about__head {
+  margin-top: 70px;
+}
+
+.about__head h1 {
+  color: rgb(63, 62, 62);
+}
+.about__head p {
+  color: rgb(63, 62, 62);
+  font-size: 16px;
+  padding: 20px 0px;
+}
+.about__employee .about__employeeHead h1 {
+  color: rgb(63, 62, 62);
+  text-align: center;
+}
+
+.about__employee .employeeBoxs {
+  padding: 40px 0px;
+}
+
+.about__employee .employeeBoxs .employeeBox {
+  padding: 20px 0px;
+}
+.about__employee .employeeBoxs .employeeBox .boximg {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.about__employee .employeeBoxs .employeeBox img {
+  border-radius: 5px;
+  height: 450px;
+  object-fit: cover;
+  width: 450px;
+}
+
+.about__employee .employeeBoxs .employeeContent {
+  padding: 20px 0px;
+}
+.about__employee .employeeBoxs .employeeContent h1 {
+  color: #13976e;
+  font-weight: 600;
+  font-size: 25px;
+}
+.about__employee .employeeBoxs .employeeContent h2 {
+  font-size: 16xpx;
+
+  padding: 10px 0px;
+}
+.about__employee .employeeBoxs .employeeContent p {
+  padding: 10px 0px;
+  font-size: 15px;
+  color: rgb(63, 62, 62);
+}
+
+@media (max-width: 500px) {
+  .about__head h1 {
+    font-size: 20px;
+  }
+  .about__head p {
+    font-size: 12px;
+  }
+
+  .about__employee .about__employeeHead h1 {
+    font-size: 20px;
+  }
+  .about__employee .employeeBoxs .employeeBox img {
+    width: 200px;
+    height: 240px;
+  }
+  .about__employee .employeeBoxs .employeeContent h1 {
+    font-size: 20px;
+  }
+  .about__employee .employeeBoxs .employeeContent h2 {
+    font-size: 17px;
+  }
+
+  .about__employee .employeeBoxs .employeeContent p {
+    font-size: 12px;
+  }
+}

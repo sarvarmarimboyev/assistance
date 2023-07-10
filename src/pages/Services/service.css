@@ -1,0 +1,22 @@
+.service-img img {
+  width: 100%;
+}
+.service-content h2 {
+  color: #13976e;
+  font-size: 30px;
+  padding: 20px 0px;
+}
+
+.service-content p {
+  color: #4c4d4e;
+  line-height: 38px;
+}
+@media (max-width: 400px) {
+  .service-content h2 {
+    font-size: 20px;
+  }
+  .service-content p {
+    font-size: 12px;
+    line-height: 20px;
+  }
+}
