@@ -1,0 +1,97 @@
+.container .head__img img {
+  object-fit: cover;
+  height: 70vh;
+  width: 90%;
+  text-align: center;
+  margin-top: 40px;
+}
+.container .head__img {
+  text-align: center;
+}
+.head__content {
+  padding: 40px 0px;
+}
+
+.head__content h1 {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.head__content p {
+  line-height: 24px;
+  padding-top: 15px;
+  font-size: 18px;
+}
+
+.bottom__boxs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  gap: 20px;
+}
+
+.bottom__boxs .bottom__box {
+  border: 1px solid;
+  padding: 10px;
+}
+.bottom__boxs .bottom__box:hover {
+  background-color: #15976f;
+  color: #fff;
+}
+
+.bottom__boxs .bottom__box:hover .box__last h1 {
+  color: white;
+}
+
+.bottom__boxs .bottom__box:hover h3 {
+  color: #fff;
+}
+.bottom__boxs .bottom__box h3 {
+  color: #15976f;
+  font-size: 21px;
+  font-weight: 600;
+}
+.bottom__boxs .bottom__box p {
+  padding: 20px 0px;
+  font-size: 20px;
+}
+
+.bottom__boxs .bottom__box .box__last {
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  gap: 10px;
+}
+
+.bottom__boxs .bottom__box .box__last h1 {
+  color: #ee7b69;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+@media (max-width: 700px) {
+  .container .head__img img {
+    width: 95%;
+    height: 30vh;
+  }
+
+  .head__content h1 {
+    font-size: 18px;
+  }
+  .head__content p {
+    font-size: 12px;
+  }
+  .bottom__boxs {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .bottom__boxs .bottom__box p {
+    font-size: 13px;
+  }
+  .bottom__boxs .bottom__box h2 {
+    font-size: 17px;
+  }
+  .bottom__boxs .bottom__box h3 {
+    font-size: 17px;
+  }
+}

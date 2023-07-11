@@ -1,0 +1,116 @@
+.departments__detail1 .home__carousel .custom-carousel .slick-slide img {
+  height: 70vh;
+  object-fit: cover;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.departments__detail1 .home__carousel .custom-carousel .slick-track {
+  display: flex;
+  align-items: center;
+}
+
+.departments__detail1 .home__carousel .custom-carousel .slick-dots {
+  position: absolute;
+  bottom: 20px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.departments__detail1 .home__carousel .custom-carousel .slick-dots li {
+  margin: 0 4px;
+}
+
+.departments__detail1 .home__carousel .custom-carousel .slick-dots li button {
+  width: 10px;
+  height: 10px;
+  background-color: rgb(136, 136, 136);
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.departments__detail1 .detail1__bottom {
+  padding: 40px 0px;
+}
+
+.departments__detail1 .detail1__bottom h1 {
+  font-weight: 500;
+}
+
+.departments__detail1 .detail1__bottom p {
+  padding-top: 15px;
+  line-height: 30px;
+}
+
+.departments__detail1 .detail1__bottom .detail1__boxs {
+  display: grid;
+  gap: 10px 20px;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 50px;
+}
+
+.departments__detail1 .detail1__bottom .detail1__boxs .detail1-box {
+  border: 1px solid;
+  padding: 10px;
+}
+
+.departments__detail1 .detail1__bottom .detail1__boxs :hover {
+  background-color: #13976e;
+  color: white;
+}
+
+.departments__detail1 .detail1__bottom .detail1__boxs :hover h3 {
+  color: #fff !important ;
+}
+
+.departments__detail1 .detail1__bottom .detail1__boxs :hover h2 {
+  color: #fff !important;
+}
+
+.departments__detail1 .detail1__bottom .detail1__boxs .detail1-box h3 {
+  font-size: 21px;
+  color: #13976e;
+  font-weight: 500;
+}
+
+.departments__detail1 .detail1__bottom .detail1__boxs .detail1-box h1 {
+  padding-top: 25px;
+  font-weight: 400;
+}
+.departments__detail1 .detail1__bottom .detail1__boxs .detail1-box h2 {
+  font-weight: 400;
+  color: #ea5a43;
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  font-size: 14px;
+  gap: 10px;
+}
+
+@media (max-width: 700px) {
+  .departments__detail1 .home__carousel .custom-carousel .slick-slide img {
+    height: 40vh;
+  }
+  .departments__detail1 .detail1__bottom h1 {
+    font-size: 20px;
+  }
+
+  .departments__detail1 .detail1__bottom p {
+    font-size: 13px;
+  }
+
+  .departments__detail1 .detail1__bottom .detail1__boxs {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .departments__detail1 .detail1__bottom .detail1__boxs .detail1-box h3 {
+    font-size: 15px;
+  }
+  .departments__detail1 .detail1__bottom .detail1__boxs .detail1-box h1 {
+    font-size: 18px;
+  }
+}

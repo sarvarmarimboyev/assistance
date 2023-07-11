@@ -9,12 +9,7 @@ const About = () => {
   return (
     <>
       <div className="container">
-        {/* <div className="animated-text">
-          <h1 className="slide-in">Welcome</h1>
-        </div>
-        <div className="cube">
-          
-        </div> */}
+   
 
         <div className="about__head">
           <h1>{t("about.about-title1")}</h1>

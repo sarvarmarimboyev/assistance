@@ -18,6 +18,10 @@ import Servicedetail2 from "./components/Subfiles/Service-detail/service-detail2
 import Servicedetail3 from "./components/Subfiles/Service-detail/service-detail3/Servicedetail3"
 import Servicedetail4 from "./components/Subfiles/Service-detail/service-detail4/Servicedetail4"
 
+import DepartmentsDetail1 from "./components/Subfiles/Departments/departments-detail1/DepartmentsDetail1"
+import DepartmentsDetail2 from "./components/Subfiles/Departments/departments-detail2/DepartmentsDetail2"
+import DepartmentsDetail3 from "./components/Subfiles/Departments/departments-detail3/DepartmentsDetail3"
+import DepartmentsDetail4 from "./components/Subfiles/Departments/departments-detail4/DepartmentsDetail4"
 
 const App = () => {
   return (
@@ -32,6 +36,11 @@ const App = () => {
           <Route exact path="/service-detail3" component={Servicedetail3} />
           <Route exact path="/service-detail4" component={Servicedetail4} />
           <Route exact path="/departments" component={Departments} />
+          
+          <Route exact path="/department-detail1" component={DepartmentsDetail1} />
+          <Route exact path="/department-detail2" component={DepartmentsDetail2} />
+          <Route exact path="/department-detail3" component={DepartmentsDetail3} />
+          <Route exact path="/department-detail4" component={DepartmentsDetail4} />
 
           {/*  */}
           <Route path="/news" component={News} />

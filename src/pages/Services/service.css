@@ -1,15 +1,28 @@
 .service-img img {
   width: 100%;
+  animation: service-img 1s ease forwards;
 }
+
+@keyframes service-img {
+  0% {
+    transform: rotateX(0deg) rotateY(180deg) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+  }
+}
+
 .service-content h2 {
   color: #13976e;
   font-size: 30px;
   padding: 20px 0px;
+  animation: about-head 2.5s ease forwards;
 }
 
 .service-content p {
   color: #4c4d4e;
   line-height: 38px;
+  animation: about-head 2.5s ease forwards;
 }
 @media (max-width: 400px) {
   .service-content h2 {

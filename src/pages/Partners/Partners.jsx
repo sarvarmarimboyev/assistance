@@ -10,16 +10,18 @@ export default function Partners() {
     <div>
       <div className="container">
         <div className="partners">
-          <h1>{t("partners.partners-title")}</h1>
-          <div className="contacts-discription">
-            <h2>{t("partners.partners-title1")}</h2>
-            <p>{t("partners.partners-discription1")}</p>
+          <div className="partners__headCont">
+            <h1>{t("partners.partners-title")}</h1>
+            <div className="contacts-discription">
+              <h2>{t("partners.partners-title1")}</h2>
+              <p>{t("partners.partners-discription1")}</p>
+            </div>
+
             <div className="partners__contact">
-            
-            <Link to="/contact">
-              <h3>{t("partners.partners-contact")}</h3>
-              <img src={Right} alt="" />
-            </Link>
+              <Link to="/contact">
+                <h3>{t("partners.partners-contact")}</h3>
+                <img src={Right} alt="" />
+              </Link>
             </div>
 
             <div className="partners__bottom">
@@ -74,7 +76,10 @@ export default function Partners() {
                   </a>
                 </li>
                 <li>
-                  <a href="http://www.missadena.com/" style={{ borderBottom: "1px solid"}}>
+                  <a
+                    href="http://www.missadena.com/"
+                    style={{ borderBottom: "1px solid" }}
+                  >
                     <h3>{t("partners.partners-bottomTitle8")} </h3>{" "}
                     <h4>{t("partners.partners-bottomDisc8")}</h4>{" "}
                     <img src={Right} alt="" />{" "}

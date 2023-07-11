@@ -30,7 +30,33 @@
 .partners .partners__bottom ul {
   padding: 30px 0px;
   list-style: none;
+  animation: partners__bottom 1.5s ease forwards;
 }
+@keyframes partners__bottom  {
+  0% {
+    transform: translate(0%, 50%);
+  }
+  100% {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+}
+
+.partners__headCont{
+  animation: partners__headCont 1.5s ease forwards;
+}
+@keyframes partners__headCont  {
+  0% {
+    transform: translate(-50%, 0%);
+  }
+  100% {
+    transform: translate(0, 0);
+    opacity: 1;
+  }
+}
+
+
+
 
 .partners .partners__bottom ul li a {
   display: grid;

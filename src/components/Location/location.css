@@ -4,7 +4,20 @@
   justify-content: center;
   grid-template-columns: 1fr 1fr;
   margin: 50px 0px;
+  animation-delay: 4s;
+  animation: location 0.7s linear;
+  transform-style: preserve-3d;
 }
+
+@keyframes location {
+  0% {
+    transform: rotateX(0deg) rotateY(180deg) rotateZ(0deg);
+  }
+  100% {
+    transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+  }
+}
+
 .location__main .location__left .location__leftTop {
   border: 1px solid;
   padding: 15px;

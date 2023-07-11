@@ -4,7 +4,20 @@
   justify-content: center;
   grid-template-columns: 1fr;
   margin: 50px 0px;
+
+  animation: contact__main 1s ease forwards;
+
 }
+
+  @keyframes contact__main {
+    0% {
+      transform: rotateX(180deg) rotateY(180deg) rotateZ(0deg);
+    }
+    100% {
+      transform: rotateX(deg) rotateY(0deg) rotateZ(0deg);
+    }
+  }
+
 .contact__main .contact__left .contact__leftTop {
   border: 1px solid;
   padding: 15px;

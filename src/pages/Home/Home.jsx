@@ -98,41 +98,48 @@ const Home = () => {
             </div>
             <div className="home__thirdRight">
               <div className="third__rightBoxs">
-                <div className="third__rightBox">
-                  <h2>{t("home.home-box-title2")}</h2>
-                  <p>{t("home.home-box-discription2")}</p>
-                  <div className="rightbox__bottom">
-                    <h4>{t("home.home-button1")}</h4>
-                    <img src={Right} alt="" />
+                <Link to="/department-detail1" className="home-link">
+                  <div className="third__rightBox">
+                    <h2>{t("home.home-box-title2")}</h2>
+                    <p>{t("home.home-box-discription2")}</p>
+                    <div className="rightbox__bottom">
+                      <h4>{t("home.home-button1")}</h4>
+                      <img src={Right} alt="" />
+                    </div>
                   </div>
-                </div>
+                </Link>
 
-                <div className="third__rightBox">
-                  <h2>{t("home.home-box-title3")}</h2>
-                  <p>{t("home.home-box-discription3")}</p>
-                  <div className="rightbox__bottom">
-                    <h4>{t("home.home-button1")}</h4>
-                    <img src={Right} alt="" />
+                <Link to="/department-detail2" className="home-link">
+                  <div className="third__rightBox">
+                    <h2>{t("home.home-box-title3")}</h2>
+                    <p>{t("home.home-box-discription3")}</p>
+                    <div className="rightbox__bottom">
+                      <h4>{t("home.home-button1")}</h4>
+                      <img src={Right} alt="" />
+                    </div>
                   </div>
-                </div>
+                </Link>
 
-                <div className="third__rightBox">
-                  <h2>{t("home.home-box-title4")}</h2>
-                  <p>{t("home.home-box-discription4")}</p>
-                  <div className="rightbox__bottom">
-                    <h4>{t("home.home-button1")}</h4>
-                    <img src={Right} alt="" />
+                <Link className="home-link" to="/department-detail3">
+                  <div className="third__rightBox">
+                    <h2>{t("home.home-box-title4")}</h2>
+                    <p>{t("home.home-box-discription4")}</p>
+                    <div className="rightbox__bottom">
+                      <h4>{t("home.home-button1")}</h4>
+                      <img src={Right} alt="" />
+                    </div>
                   </div>
-                </div>
-
-                <div className="third__rightBox">
-                  <h2>{t("home.home-box-title5")}</h2>
-                  <p>{t("home.home-box-discription5")}</p>
-                  <div className="rightbox__bottom">
-                    <h4>{t("home.home-button1")}</h4>
-                    <img src={Right} alt="" />
+                </Link>
+                <Link to="/department-detail4" className="home-link">
+                  <div className="third__rightBox">
+                    <h2>{t("home.home-box-title5")}</h2>
+                    <p>{t("home.home-box-discription5")}</p>
+                    <div className="rightbox__bottom">
+                      <h4>{t("home.home-button1")}</h4>
+                      <img src={Right} alt="" />
+                    </div>
                   </div>
-                </div>
+                </Link>
               </div>
             </div>
           </div>

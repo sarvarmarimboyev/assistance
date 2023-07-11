@@ -57,27 +57,75 @@
     },
     "service-detail4": {
       "service-detailDesc1": "Mehmonxonalarda joylarni bron qilish, havo va temir yo'l transportiga chiptalar taqdim etish, tarjima xizmatlarini ko'rsatish, taksi xizmatlarini ko'rsatish, boshqa xizmatlar, dori vositalarini qidirish va etkazib berish."
-    },
-    "departments": {
-      "main-title1": "Отдел международного сотрудничества",
-      "main-description1": "Отдел международного сотрудничества ООО «Узбекинвест Ассистанс» отвечает за организацию международных связей общества и обеспечение преемственности отношений.",
-      "main-description2": "Помимо налаживания сотрудничества с новыми партнерами, в обязанности отдела также входит организация оказания необходимой помощи туристам, прибывающим на территорию Республики Узбекистан с туристическим полисом.",
-      "main-description3": "Сотрудничаем со 127 медицинскими учреждениями во всех областных центрах и отдаленных районах Республики Узбекистан. Среди них самые крупные больницы: «“SHOX MED CENTRE”, “EMU Clinic”, “MDS Servis”, “Doktor-D”, “Azimed Hospital” “Star med”",
-      "main-description4": "Нашими зарубежными партнерами являются Euroasia Assistance, Inter Assist, Missadena, Jiang Tai Global Assistance, VMA LLC, AP Companies Ltd, Global Voyager Assistance, Remed Assistance и Balt Assistance.",
-      "departmentBox": {
-        "box-title1": "Наши местные медицинские и технические партнеры",
-        "box-title2": "Наши местные медицинские и технические партнеры",
-        "box-title3": "Наши партнеры среди страховых компаний",
-        "box-description1": "Allianz Global Assistance (ранее Mondial Assistance) компания Allianz берет свою историю с 1890 года. Она была основана в Мюнхене, осно...",
-        "box-description2": "Международная больница Шох Shox International Hospital - крупнейшая частная медицинская сеть клиник в Узбекистане, специали...",
-        "box-description3": "Узбекинвест Компания экспортно-импортного страхования «Узбекинвест» АО функционирует на рынке в отрасли «общего страх...",
-        "box-title4": "ОСГОВТС",
-        "box-title5": "ЕВРО ПРОТОКОЛ",
-        "box-discription4": "Обязательное страхование гражданской ответственности владельцев транспортных средств (ОСГОВТС) – это обусловленный законо...",
-        "box-discription5": "Информирование страховщика о дорожно-транспортном происшествии путем составления извещения водителями, участвовавшими в а..."
-      }
     }
   },
+    "departments": {
+
+
+
+      "main-title1": "Xalqaro hamkorlik bo’limi",
+      "main-description1": "«O‘zbekinvest Assistans» MCHJning Xalqaro hamkorlik bo‘limi jamiyatning xalqaro aloqalarini tashkillashtirish va uzviy davomiyligini ta’minlash uchun ma’suldir.",
+      "main-description2": " Bo‘lim yangi hamkorlar bilan hamkorlikni o‘rnatish bilan bir qatorda, trevel polisi bilan O‘zbekiston Respublikasi hududiga kelgan sayyoxlarga kerakli assistans xizmatlarini tashkil etish uchun xam ma’suldir.",
+      "main-description3": "O’zbekiston Respublikasida barcha viloyat markazlari hamda chekka hududlarida jami 127 tibbiy muassasalar bilan hamkorlik qilib kelmoqda. Bulardan eng yiriklari “SHOX MED CENTRE”, “EMU Clinic”, “MDS Servis”, “Doktor-D”, “Azimed Hospital” “Star med” kabi shifoxonalar shular jumlasidandir.",
+      "main-description4": "Horijiy hamkorlarimiz Euroasia Assistance, Inter Assist, Missadena, Jiang Tai Global Assistance, VMA LLC, AP Companies Ltd, Global Voyadger Assistance, Remed Assistance, hamda Balt Assistance.",
+      "departmentBox": {
+        "box-title1": "Mahalliy Tibbiy va texnik hamkorlarimiz",
+        "box-title2": "Mahalliy Tibbiy va texnik hamkorlarimiz",
+        "box-title3": "Sugurta kompaniyalar orasidagi hamkorlarimiz",
+        "box-description1": "Allianz Global Assistance (sobiq Mondial Assistance)   Allianz o'z tarixini 1890 yilga borib taqaladi. U Myunxenda tashkil etilgan, a...",
+        "box-description2": "Allianz Global Assistance (sobiq Mondial Assistance)   Allianz o'z tarixini 1890 yilga borib taqaladi. U Myunxenda tashkil etilgan, a...",
+        "box-description3": " «Oʼzbekinvest» eksport-import aksiyadorlik jamiyati sugʼurta kompaniyasi umumiy sugʼurta bozorida oʼz faoliyat...",
+        "box-title4": "TVEFJMS",
+        "box-title5": "Yo’l transport hodisasi tog’risidagi xabarnoma",
+        "box-discription4": "Avtotransport vositalari egalarining uchinchi shaxslarning javobgarligini majburiy sug‘urtasi (TVEFJMS) – yo‘...",
+        "box-discription5": "“Oʼzbekiston Respublikasining ayrim qonun hujjatlariga oʼzgartish va q..."
+      },
+
+      "department-detail1": {
+        "detail-title1": "Xalqaro hamkorlik bo’limi",
+        "detail-description1": "«O‘zbekinvest Assistans» MCHJning Xalqaro hamkorlik bo‘limi jamiyatning xalqaro aloqalarini tashkillashtirish va uzviy davomiyligini ta’minlash uchun ma’suldir.",
+        "detail-description2": "Bo‘lim yangi hamkorlar bilan hamkorlikni o‘rnatish bilan bir qatorda, trevel polisi bilan O‘zbekiston Respublikasi hududiga kelgan sayyoxlarga kerakli assistans xizmatlarini tashkil etish uchun xam ma’suldir.",
+        "detail-description3": "O’zbekiston Respublikasida barcha viloyat markazlari hamda chekka hududlarida jami 127 tibbiy muassasalar bilan hamkorlik qilib kelmoqda. Bulardan eng yiriklari “SHOX MED CENTRE”, “EMU Clinic”, “MDS Servis”, “Doktor-D”, “Azimed Hospital” “Star med” kabi shifoxonalar shular jumlasidandir.        ",
+        "detail-description4": "Horijiy hamkorlarimiz Euroasia Assistance, Inter Assist, Missadena, Jiang Tai Global Assistance, VMA LLC, AP Companies Ltd, Global Voyadger Assistance, Remed Assistance, hamda Balt Assistance.",
+        "detailBox-title1": "Mahalliy Tibbiy va texnik hamkorlarimiz",
+        "detailBox-title2": "Mahalliy Tibbiy va texnik hamkorlarimiz",
+        "detailBox-title3": "Sugurta kompaniyalar orasidagi hamkorlarimiz",
+        "detailBox-center1": "Allianz Global Assistance (sobiq Mondial Assistance)",
+        "detailBox-center2": "Shox International Hospital",
+        "detailBox-center3": "Oʼzbekinvest",
+        "detailBox-discription1": "Allianz o'z tarixini 1890 yilga borib taqaladi. U Myunxenda tashkil etilgan, a...",
+        "detailBox-discription2": "'Shox International Hospital' -yuqori aniqlikdagi diagnostika, ilmiy-texnik laboratoriya, jarrohl...",
+        "detailBox-discription3": "«Oʼzbekinvest» eksport-import aksiyadorlik jamiyati sugʼurta kompaniyasi umumiy sugʼurta bozorida oʼz faoliyat..."
+      },
+      "department-detail2": {
+        "detail-title1": "Majburiy avto sug’urta turi bo’yicha da’vo ishlarini ko’rib chiqish bo’limi",
+        "detail-description1": "Kompaniya Call – markazi maʼlumotlariga asosan yo‘l transport hodisasi sodir bo‘lganda bevosita joyiga chiqish, sug‘urta hodisasining yuzaga kelishiga sabab bo‘lgan holatlarni o‘rganish, haydovchilar bilan birgalikda ixtiyoriy ravishda Habarnoma (halq tilida yevro-protokol) rasmiylashtirish, yo‘l transport hodisasida shikastlangan transport vositalarining holatini tekshirish yoki rasm (video)larga tushirish, sug‘urta hodisasi yuz berganligi to‘g‘risida sug‘urta qildiruvchi (haydovchi)lardan ariza olish, sug‘urta hodisasini o‘rganish, shu jumladan taqdim etilgan baxolash hisobotini xaqqoniyligini tekshirib, sug‘urta hodisasini tan olish yoki tan olmaslik to‘g‘risidagi komissiya xulosasini olish, sug‘urta tovonini to‘liq olish uchun zarur hujjatlarni to‘plashda aybdor va jabrlanuvchilarga yordam ko‘rsatish.",
+        "detail-description2": "Amalga oshirilgan ishlar bo‘yicha xar kunlik, xaftalik va oylik xisobotlar tayyorlash hamda jamiyat direktoriga taqdim etib borish.",
+        "detailBox-title1": "TVEFJMS",
+        "detailBox-title2": "Yo’l transport hodisasi tog’risidagi xabarnoma",
+        "detailBox-discription1": "Avtotransport vositalari egalarining uchinchi shaxslarning javobgarligini majburiy sug‘urtasi (TVEFJMS) – yo‘...",
+        "detailBox-discription2": "“Oʼzbekiston Respublikasining ayrim qonun hujjatlariga oʼzgartish va q..."
+      },
+      "department-detail3": {
+        "detail-title1": "Ixtiyoriy sug'urta turlari bo'yicha da'volarni ko'rib chiqish bo'limi",
+        "detail-description1": "Kompaniya Call – markazi ma’lumotlariga asosan yo‘l-transport hodisasi sodir bo‘lganda bevosita joyiga chiqish, zarar ko‘rgan transport vositalarni va hujjatlarini videoga - suratga olish, zarur bo‘lganda evakuator xizmatlarini tashkil qilish, transport vositalariga texnik yordam ko‘rsatish, “hushyor haydovchi” va boshqa zaruriy xizmatlarini amalga oshirish.",
+        "detail-description2": "Ixtiyoriy sug‘urta turi bo‘yicha zarar ko‘rgan transport vositalarini voqea joyida boshlang‘ich baholash ishlarini to‘liq amalga oshirish.",
+        "detail-description3": "Mahalliy sug‘urta va assistans kompaniyalari murojaatiga ko‘ra transport vositalariga texnik yordam ishlarini amalga oshirish va tashkil qilish mumkin.",
+        "detail-description4": "Ixtiyoriy sug‘urta turi bo‘yicha, kelib tushayotgan murojaatlarni ko‘rib chiqib xulosa berish.",
+        "detail-description5": "Zarar ko‘rgan transport vositalarni ta’mirlash ishlari jarayonini bevosita avtoustaxonalarga chiqqan holda nazorat qilib, avtotrasport vositasi to‘liq ta’mirlangandan so‘ng jamiyat vakili, mijoz va avtoustaxonaning vakili ishtirokida zararlangan avtotransportni 3 (uch) tomonlama qabul qilish va topshirish dalolatnomasi rasmiylashtirilgan holda mijozga topshirishni ta’minlash.",
+        "detail-description6": "Amalga oshirilgan ishlar bo‘yicha har kunlik, haftalik va oylik hisobotlar tayorlash hamda jamiyat direktoriga taqdim etib borish.",
+        "detail-description7": "Bugungi kunda O’zbekiston Respublikasining barcha viloyatlari markazida va Toshektn shahrida yuqori sifatli texnik ustaxonalar bilan hamkorlik qilib kelinmoqda. Bular “JM-AVTO” MCHJ, “FORSAJ LYUKS AVTO” MCHJ, YATT SHAYUNUSOV B.R, “PIT STOP MOTORS” MCHJ (Avtoritet) MAJOR BUSINESS GROUP MCHJ (CARBOX) hamda AVTOTEXXIZMAT MCHJ kabi avto texnik ustaxonalar."
+      },
+      "department-detail4": {
+
+        "detail-title1": "Yuridik Bo'lim",
+        "detail-description1":"Qonun talablariga asosan, Davlat mablag’larini qaytarish maqsadida sug’urta hodisasida aybdorligi tasdiqlangan shaxslardan regress huquqi asosida yetkazilgan moddiy zararlarni talab qilish va (yoki) sud orqali undirish.",
+        "detail-description2":"“O‘zbekinvest Assistans” MChJ va uning mijozlarining manfaatlarini belgilangan tartibda iqtisodiy, fuqarolik va jinoyat ishlari bo‘yicha sudlarda, shuningdek, boshqa organlarda aybdorlarga murojaat qilish va “O‘zbekinvest Assistans” MChJ hamda uning mijozlari manfaatlarini himoya qiladi.        ",
+        "detail-description3":"Da'vogar va sud tekshiruvlari natijalarini tahlil qiladi va umumlashtiradi, shuningdek shartnomalarning amalda yopilishi va bajarilishini tahlil qiladi.     ",
+        "detail-description4":"Hujjatlarni huquqiy ekspertizadan o'tkazadi, shuningdek, O'zbekinvest Assistance' MChJ va uning mijozlari tomonidan tuzilgan shartnomalar va boshqa hujjatlarni tasdiqlash."
+     
+      }
+    },
   "location": {
     "location-table-title1": "Bog'lanish",
     "location-table-discription1": "Biz bilan bog'lanishinggiz uchun bizning tashkilotimizning turli sohalardagi manzillari",
