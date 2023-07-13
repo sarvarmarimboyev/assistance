@@ -119,4 +119,9 @@
   .departments__detail2 .detail2__bottom .detail2__boxs .detail2-box h1 {
     font-size: 18px;
   }
+
+  .departments__detail2 .detail2__bottom .detail2__boxs{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
 }
